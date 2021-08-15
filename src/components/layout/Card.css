@@ -1,0 +1,25 @@
+.card {
+  border: 3px solid;
+  border-radius: 10px;
+  margin: 10px;
+  min-height: 200px;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  /* padding: 5px 0px; */
+}
+.card .content {
+  background-color: #fff;
+  color: black;
+  padding: 10px 0px;
+  border-radius: 10px;
+  min-height: 200px;
+}
+.card .content h3 {
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}

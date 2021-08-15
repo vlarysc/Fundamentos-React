@@ -1,0 +1,10 @@
+.tabela {
+  width: 100%;
+}
+
+.tabela td {
+  border-bottom: 3px solid rgb(0, 0, 0);
+}
+.tabela th {
+  border-bottom: 3px solid rgb(0, 0, 0);
+}
